@@ -8,7 +8,7 @@
 <h3>My Skills:</h3>
 
 <p>
-  <img https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665/>
+  <img alt="adobe ae" title="after effects" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"/>
 </p>
 
 <!--

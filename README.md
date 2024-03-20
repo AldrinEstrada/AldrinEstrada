@@ -1,8 +1,5 @@
 <h2 align="center">Hello! I'm Aldrin Estrada</h2>
 <p align="center">
-  <a href="https://aldrinestrada.ca/">
-    <img alt="My Website" title="My Website" src="https://img.shields.io/badge/my%20website%20-8A2BE2"/>
-  </a>
   <a href="https://www.linkedin.com/in/aldrinestrada">
     <img alt="linkedin" title="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
